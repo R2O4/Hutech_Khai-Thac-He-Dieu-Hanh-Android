@@ -1,0 +1,5 @@
+THÔNG TIN SINH VIÊN THỰC HIỆN ĐỒ ÁN CHUYÊN NGÀNH
+------------------------------------------------
+()      Họ & Tên         |    MSSV    |   Lớp
+1.    Phan Nhất Huy      | 2187700087 | 21DATA1 
+2.    Trần Nhật Vũ       | 2187701120 | 21DATA1 (NT)
